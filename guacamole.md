@@ -3,6 +3,7 @@
 * avocado
 * salt
 * lime?
+* lemon
 ### Instructions
 
 #### Price of ingredients
