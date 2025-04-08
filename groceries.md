@@ -7,3 +7,7 @@
 * Coconut milk : 2
 * Strawberries : 3
 
+### To-buy
+* Apples: 10
+* Avocados: 5
+
